@@ -1,0 +1,7 @@
+# vscodefiles
+.vs
+.vscode
+
+#build
+/SignalR/bin
+/SignalR/obj
